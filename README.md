@@ -6,3 +6,9 @@ Git a version control system created in order to make developing easier. This is
 
 **GitHub**:
 Github is a git repository that works remotely. One can uplaod their git repository projects to gitbhub for others to view and clone into their own machines. 
+
+
+**How to use Git/GitHub**
+Step 1: Go to https://github.com/ and sign up using your credentials. 
+Step 2: Once you sign up, you will land on the homepage. On the top-right of your webpage there is a plus button with a drop down menu. Select "New repository".
+Step 3: Now you will be asked to name your repository and you are free to add any files you'd like for instace like this ReadME file. 
