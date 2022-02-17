@@ -20,3 +20,17 @@ Step 1: Go to https://www.jetbrains.com/webstorm/ and download Webstorm.
 Step 2: Use the Create a Project button on the dashboard and provide an appropriate name to name to craete the project. 
 Step 3: In the File > New File > HTML 5, create a new file and you can start editing the document. 
 -----------------------------------------------------------------------------------------------------------------
+
+Glossary:
+**Branch** - code with a unique name 
+**Clone** - when you download a repository from github to your local machine 
+**Commit** - moves files from work area to "Commit"
+**Fetch** - brings data from a remote repository to local machine
+**Git** - a version control system
+**Github** - git repository that works remotely
+**Merge** - putting history back together
+**Merge Conflict** - when two people are trying to work on the same file/document
+**Push** - another way of saying "Save Changes"
+**Pull** - changes in the respository made to your local files as well
+**Remote** - repository hosted on the internet
+**Repository** - another way of saying "Folder"
