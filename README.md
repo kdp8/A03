@@ -34,3 +34,9 @@ Glossary:
 **Pull** - changes in the respository made to your local files as well
 **Remote** - repository hosted on the internet
 **Repository** - another way of saying "Folder"
+-----------------------------------------------------------------------------------------------------------------
+
+Refrences: 
+“Getting Started with WebStorm: WebStorm.” WebStorm Help, https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html. 
+Kanaparthi, Vineeth. “Git and Github in a Nutshell.” Medium, Codeburst, 14 Feb. 2018, https://codeburst.io/git-and-github-in-a-nutshell-b0a3cc06458f. 
+\
